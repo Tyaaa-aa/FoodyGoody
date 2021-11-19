@@ -1,7 +1,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
-    <title>FoodyGoody</title>
+    <title><?= "FoodyGoody" ?></title>
     <link rel="icon" type="image/png" href="favicon.png" />
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/mystyle.css?v=8.7">
